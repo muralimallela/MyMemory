@@ -37,7 +37,7 @@ class MainActivity : AppCompatActivity() {
 
     companion object{
         private const val TAG = "MainActivity"
-        private const val GITHUB_URL = "https://github.com/muralimallela"
+        private const val GITHUB_URL = "https://github.com/muralimallela/MyMemory"
     }
 
     private lateinit var clRoot : ConstraintLayout
