@@ -19,24 +19,11 @@ The Memory Game is a classic card matching game where players must find pairs of
 - **Kotlin:** A modern, concise, and safe programming language for Android.
 - **Material Design:** Utilized for creating a visually appealing and user-friendly interface.
 
-## Installation and Setup
+## Installation
 
-To get started with the Memory Game, follow these steps:
-
-1. **Clone the Repository:**
-
-    ```bash
-    git clone https://github.com/muralimallela/MyMemory.git
-    ```
-2. **Open in Android Studio:**
-    - Launch Android Studio.
-    - Select Open an existing project.
-    - Navigate to the cloned repository and open it.
-
-3. **Build and Run:**
-    - Connect your Android device or start an emulator.
-    - Click on the Run button in Android Studio to install and run the app on your device.
-
+[<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png"
+    alt="Get it on GitHub"
+    height="80">](https://github.com/muralimallela/MyMemory/releases/latest)
 ## How to Play
 
 - **Select Difficulty:** Choose a difficulty level from the options menu.
